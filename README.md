@@ -32,6 +32,7 @@ cd ml-tour
 	- __Linux__ (to install with __GPU support__, change `requirements/dog-linux.yml` to `requirements/dog-linux-gpu.yml`):
 	```
 	conda env create -f requirements/tb-linux.yml
+	conda install -c anaconda pandas
 	source activate ml-intro 
 	```
 	- __Mac__ (to install with __GPU support__, change `requirements/dog-mac.yml` to `requirements/dog-mac-gpu.yml`):
