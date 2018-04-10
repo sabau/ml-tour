@@ -1,4 +1,4 @@
-name: dog-project
+name: ml-intro
 channels:
 - anaconda
 - conda-forge
