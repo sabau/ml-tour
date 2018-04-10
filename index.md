@@ -67,3 +67,51 @@ I've found MINST-fashion where we will classify images of clothes, shoes etc. Th
 <p align="center">
   <img alt="mnist-fashion" src="./images/mnist_fashion-embeddings.gif">
 </p>
+
+
+## Mandatory Debunking
+
+### Myth 1
+
+Facebook chatbots created an unkown language, AI will kill us all!
+
+#### Truth
+
+Cool description of a bug
+
+### Myth 2
+
+AI will replace humans work
+
+#### Truth
+
+Same relation as PC VS human calculators, tractors VS horse powered agricolture VS manual agricolture etc...
+It's just another tool to make us more efficient and find insights otherwise hard to discover.
+
+### Myth 3
+
+Simpler models are more accurate
+
+#### Truth
+
+Yeah..ask GoogLeNet team or ResNet and come back
+This is a misintepretation of the Occam Razor principle, simple is better, until it grant the same level of performances.
+The root cause here is that very complex models are hard to comprehend and to modify, that's why few people are working on them
+
+### Myth 4
+
+Everyone can do Machine Learning
+
+#### Truth
+
+It's like saying that anyone can do doctor, engineer or politician.
+It takes years of practice, experience and practice..I classify myself definitely as a newbie after 3 years of study and projects.
+
+
+### Myth 5
+
+You always need a google-esque amount of data
+
+#### Truth
+
+Sometimes that's true, but for most applications you can exploit Transfer learning, where you use a pre-trained massive network and then replace only the last layers with your business needs/classes/etc...
