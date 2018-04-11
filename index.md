@@ -94,9 +94,8 @@ Simpler models are more accurate
 
 #### Truth
 
-Yeah..ask GoogLeNet team or ResNet and come back
-This is a misintepretation of the Occam Razor principle, simple is better, until it grant the same level of performances.
-The root cause here is that very complex models are hard to comprehend and to modify, that's why few people are working on them
+This is a misintepretation of the Occam Razor principle, where basically, to solve a statistical problem, you should make as few assumption as possible. This is true, until it grant the same level of performances. The truth is that with massive amount of data is hard to know exactly which assumption will give real help to our model or not.
+The root cause here is that very complex models are hard to comprehend and to modify.
 
 ### Myth 4
 
