@@ -115,3 +115,5 @@ You always need a google-esque amount of data
 #### Truth
 
 Sometimes that's true, but for most applications you can exploit Transfer learning, where you use a pre-trained massive network and then replace only the last layers with your business needs/classes/etc...
+
+...honestly this list will be endless
